@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Rihen__7636
+- 👋 Hi, I’m @Rihen1025
 - 👀 Coding, Testing etc.
-- 🌱 BE In IT
 - 💞️ Looking For Projects in (Java, Python, C, C++, App Development, Arduino)
 - 📫 rihen7636@gmail.com
