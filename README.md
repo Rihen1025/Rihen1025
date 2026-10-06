@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Rihen1025
-- 👀 Coding, Testing etc.
-- 💞️ Looking For Projects in (Java, Python, C, C++, App Development, Arduino)
+👋 About Me
+💻 Tech Stack
+🚀 Projects
+🎓 Education
+💼 Internship Experience
+🛠️ Tools
+🔗 Portfolio + LinkedIn
+📊 GitHub stats
+📌 Featured projects
 - 📫 rihen7636@gmail.com
